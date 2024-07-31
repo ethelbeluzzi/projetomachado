@@ -1,4 +1,4 @@
-# projetomachado
+# Projeto Machado de Assis: Database
 
 A ideia geral do projeto é criar uma base de dados com as obras de Machado de Assis que estão disponíveis em Domínio Público. Essa database, então, pode ser utilizada para diferentes tarefas - tais como aplicações especializadas na literatura de Machado, ou mesmo um LLM que se expresse de acordo com o estilo machadiano.
 
