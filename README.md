@@ -4,7 +4,7 @@ A ideia geral do projeto é criar uma base de dados com as obras de Machado de A
 
 Ele utiliza Google Colab e salva os arquivos no drive.
 
-Para realizar esse projeto, criei primeiro um crawler que recuperasse a partir do site do Domínio Público todas as obras de Machado de Assis: arquivo [1.1 Projeto Machado: Crawlers no drive](https://github.com/ethelbeluzzi/projetomachado/blob/main/projeto_machado_crawlers))
+Para realizar esse projeto, criei primeiro um crawler que recuperasse a partir do site do Domínio Público todas as obras de Machado de Assis: [1.1 Projeto Machado: Crawlers no drive](https://github.com/ethelbeluzzi/projetomachado/blob/main/projeto_machado_crawlers)
 
 
 Em seguida, transformei esses PDFs em um arquivo .txt com 1000 caracteres por linha, fiz a padronização e normalização do arquivo (arquivo databasemachado.txt), e então sua conversão para .json (databasemachado.json):
