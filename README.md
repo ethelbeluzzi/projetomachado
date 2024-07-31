@@ -4,7 +4,7 @@ A ideia geral do projeto é criar uma base de dados com as obras de Machado de A
 
 O resultado é um database com 306.409 linhas de 1000 caracteres.
 
-![Machado de Assis]([https://www.exemplo.com/imagem.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Machado_de_Assis_aos_57_anos.jpg/409px-Machado_de_Assis_aos_57_anos.jpg))
+![Machado de Assis](https://www.exemplo.com/imagem.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Machado_de_Assis_aos_57_anos.jpg/409px-Machado_de_Assis_aos_57_anos.jpg)](https://pt.m.wikipedia.org/wiki/Ficheiro:Machado_de_Assis_aos_57_anos.jpg)
 
 Para realizar esse projeto, criei primeiro um crawler que recuperasse a partir do site do Domínio Público todas as obras de Machado de Assis: [1.1 Projeto Machado: Crawlers no drive](https://github.com/ethelbeluzzi/projetomachado/blob/main/crawlers.ipynb).
 
