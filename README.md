@@ -1,8 +1,8 @@
-# Projeto Machado de Assis: Database
+# Projeto Machado de Assis: Dataset
 
-A ideia geral do projeto é criar uma base de dados com as obras de Machado de Assis que estão disponíveis em Domínio Público. Essa database, então, pode ser utilizada para diferentes tarefas - tais como aplicações especializadas na literatura de Machado, ou mesmo um LLM que se expresse de acordo com o estilo machadiano.
+A ideia geral do projeto é criar um dataset com as obras de Machado de Assis que estão disponíveis em Domínio Público. Esse dataset, então, pode ser utilizada para diferentes tarefas - tais como aplicações especializadas na literatura de Machado, ou mesmo um LLM que se expresse de acordo com o estilo machadiano.
 
-O resultado é um database com 306.409 linhas de 1000 caracteres.
+O resultado é um dataset com 306.409 linhas de 1000 caracteres.
 
 ![Machado de Assis aos 57 anos](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Machado_de_Assis_aos_57_anos.jpg/409px-Machado_de_Assis_aos_57_anos.jpg)
 
