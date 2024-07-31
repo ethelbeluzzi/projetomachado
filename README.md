@@ -1,6 +1,6 @@
 # Projeto Machado de Assis: Dataset
 
-A ideia geral do projeto é criar um dataset com as obras de Machado de Assis que estão disponíveis em Domínio Público. Esse dataset, então, pode ser utilizada para diferentes tarefas - tais como aplicações especializadas na literatura de Machado, ou mesmo um LLM que se expresse de acordo com o estilo machadiano.
+A ideia geral do projeto é criar um dataset com as obras de Machado de Assis que estão disponíveis em [Domínio Público](http://www.dominiopublico.gov.br/pesquisa/ResultadoPesquisaObraForm.do?first=50&skip=0&ds_titulo=&co_autor=&no_autor=Machado%20de%20Assis&co_categoria=2&pagina=1&select_action=Submit&co_midia=2&co_obra=&co_idioma=&colunaOrdenar=null&ordem=null). Esse dataset, então, pode ser utilizada para diferentes tarefas - tais como aplicações especializadas na literatura de Machado, ou mesmo um LLM que se expresse de acordo com o estilo machadiano.
 
 O resultado é um dataset com 306.409 linhas de 1000 caracteres.
 
